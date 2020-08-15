@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:studentResponse xmlns:tns="http://www.example.org/student" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/student student.xsd ">
+  <tns:Studentinfo>
+    <tns:id>0</tns:id>
+    <tns:lastName>tns:lastName</tns:lastName>
+    <tns:firstName>tns:firstName</tns:firstName>
+  </tns:Studentinfo>
+</tns:studentResponse>

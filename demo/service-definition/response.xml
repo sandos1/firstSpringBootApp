@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GetCourseDetailsResponse xmlns="http://webservice.com/course">
+	
+	<CourseDetails>
+	
+		<id>123</id>
+		<name>spring boot</name>
+		<description>you will learn how to create a Soap web service</description>
+	
+	
+	</CourseDetails>
+</GetCourseDetailsResponse>
